@@ -28,7 +28,7 @@
 
       <!-- Sign Up Link -->
       <a-card style="margin-top: 24px; text-align: center;">
-        <span>Bạn chưa có tài khoản?</span>
+        <span class="mr-1">Bạn chưa có tài khoản?</span>
         <a-link href="#">Đăng ký</a-link>
       </a-card>
 
